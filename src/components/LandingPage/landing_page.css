@@ -1,0 +1,49 @@
+.landing_page{
+    display: flex;
+    flex-direction: column;
+    align-self: center;
+}
+.landing_btn{
+    height: 6vh;
+    width: 8vw;
+    border-radius: 10px;
+    align-self: center;
+    background-color: rgb(41, 178, 158);
+    position: absolute;
+    bottom: 50%;
+}
+img{
+    width : 100vw;
+    height : 45vw;
+    align-self: center;
+}
+.landing_text{
+    font-size: 2.5vw;
+    font-weight: bold;
+    position: absolute;
+    bottom: 50%;
+    top:30%;
+    margin-left: 44%;
+    color: rgb(218, 21, 90);
+    
+}/* .landing_btn{
+    height: 35px;
+    width: 65px;
+    background-color: aliceblue;
+    color:blue;
+    border: 2px solid #008CBA;
+    border-radius: 5px;
+}
+.landing_text,.landing_btn{
+    margin-top: 9rem;
+    color: green;
+}
+ .landing_text{
+    margin-left: 7rem
+ }
+
+.landing_img {
+  
+    max-width: 50%;
+    max-height: 50%;
+} */

@@ -1,0 +1,25 @@
+.header{
+    display: flex;
+    border: 1px solid rgb(64, 63, 63);
+    border-radius: 5px;
+    padding: 5px;
+    height: 13%;
+    background:linear-gradient(rgb(102, 18, 18),rgb(111, 11, 89));
+    
+}
+.header img{
+    margin-top: 2%;
+    width: 70vw;
+    height: 10vh;
+    margin-left: 10%;
+    border-radius: 10px;
+}
+
+.camera-icon{
+   align-self: center;
+   margin-left: auto;
+   margin-right: 3%;
+}
+.camera-icon img{
+    width: 50px;
+}
